@@ -1,4 +1,4 @@
-# NLP and Classification: A study on coffee and tea with NLP
+# NLP and Classification: A study on coffee and tea
 
 ## Project Background 
 
